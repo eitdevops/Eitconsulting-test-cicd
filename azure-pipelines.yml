@@ -43,4 +43,4 @@ steps:
 
 
 
-# We still need to take the staging directory files and publish it as a build artifact
+# We still need to take the staging directory files and publish it as a build artifactef
